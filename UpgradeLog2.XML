@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TeamSelector">
+</Property><Property Name="Solution File" Value="C:\C#\Chapter.13\TeamSelector\TeamSelector.sln">
+</Property><Property Name="User Options File" Value="C:\C#\Chapter.13\TeamSelector\TeamSelector.suo">
+</Property><Property Name="Date" Value="Wednesday, January 06, 2010">
+</Property><Property Name="Time" Value="8:58 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TeamSelector.sln" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TeamSelector.suo" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector.suo">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\TeamSelector.csproj" Description="Project file successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\TeamSelector.csproj">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Form1.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Form1.Designer.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Program.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Program.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Properties\Settings.settings" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Form1.resx" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\Properties\Resources.resx" Description="File successfully backed up as C:\C#\Chapter.13\TeamSelector\Backup1\TeamSelector\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\TeamSelector.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TeamSelector" Source="TeamSelector\TeamSelector.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TeamSelector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TeamSelector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TeamSelector" Source="TeamSelector\TeamSelector.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

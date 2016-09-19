@@ -1,0 +1,16 @@
+C:\C#\Chapter.13\MovieSelector\MovieSelector\bin\Debug\TeamSelector.exe
+C:\C#\Chapter.13\MovieSelector\MovieSelector\bin\Debug\TeamSelector.pdb
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\MovieSelector.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\WindowsApplication1.Form1.resources
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\MovieSelector.csproj.GenerateResource.Cache
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\TeamSelector.exe
+C:\C#\Chapter.13\MovieSelector\MovieSelector\obj\Debug\TeamSelector.pdb
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\TeamSelector.exe
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\TeamSelector.pdb
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\bin\Debug\TeamSelector.exe
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\bin\Debug\TeamSelector.pdb
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\MovieSelector.csprojResolveAssemblyReference.cache
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\WindowsApplication1.Form1.resources
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\CSharp5\Chapter13\Solutions\ProgrammingExercises\MovieSelector\obj\Debug\MovieSelector.csproj.GenerateResource.Cache
